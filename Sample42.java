@@ -7,10 +7,10 @@ public class Sample42 {
 
 	public static void main(String[] args) {
 		Calc4 calc = new Calc4();
-        calc.method("足し算");
-        calc.add();
-        calc.method("掛け算");
-        calc.mul();
+        	calc.method("足し算");
+        	calc.add();
+        	calc.method("掛け算");
+        	calc.mul();
 
 	}
 
